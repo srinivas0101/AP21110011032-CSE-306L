@@ -1,0 +1,8 @@
+123 main()
+{
+int a=5;
+int b=100;
+int c=90;
+/* a and c are not equal */
+if(c==b)
+}
