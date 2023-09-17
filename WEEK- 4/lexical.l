@@ -25,7 +25,7 @@ return 1;
 }
 int main()
 {
-yyin = fopen("temp.txt", "r");
+yyin = fopen("input.txt", "r");
 outputFile = fopen("output.txt", "w");
 yylex();
 fclose(yyin);
